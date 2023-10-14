@@ -1,6 +1,0 @@
-name: static-website-aws-python
-runtime:
-  name: python
-  options:
-    virtualenv: venv
-description: A Python program to deploy a static website on AWS
